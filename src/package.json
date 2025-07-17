@@ -1,5 +1,5 @@
 {
-  "name": "aerialnotation",
+  "name": "aerialdb",
   "version": "1.0.0",
   "description": "A replacement similar to quick.db :)",
   "main": "index.js",
@@ -20,5 +20,9 @@
     "dot-prop": "^8.0.2",
     "keyv": "^4.5.4",
     "lodash": "^4.17.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/owohai/aerialdb.git"
   }
 }
