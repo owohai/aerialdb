@@ -1,0 +1,24 @@
+{
+  "name": "aerialnotation",
+  "version": "1.0.0",
+  "description": "A replacement similar to quick.db :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "db",
+    "quick.db",
+    "dbexpress",
+    "dotnotation"
+  ],
+  "author": "owohai",
+  "license": "ISC",
+  "dependencies": {
+    "@keyv/sqlite": "^3.6.7",
+    "better-sqlite3": "^9.5.0",
+    "dot-prop": "^8.0.2",
+    "keyv": "^4.5.4",
+    "lodash": "^4.17.21"
+  }
+}
